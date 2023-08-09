@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution (Mine).md",
+                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution (Mine).md",
+                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution (Mine).md",
+                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution (Mine).md"
+                "file": "Kata 03 - How Big? How Fast?/Kata 03 - Solution Review.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "f45d8a620a8c282c",
   "lastOpenFiles": [
-    "Kata 03 - How Big? How Fast?/Prompt.md",
     "Kata 03 - How Big? How Fast?/Kata 03 - Solution (Mine).md",
+    "Kata 03 - How Big? How Fast?/Kata 03 - Solution Review.md",
+    "Kata 03 - How Big? How Fast?/Kata 03 - Solution Review.md",
+    "Kata 03 - How Big? How Fast?/Prompt.md",
     "README.md",
     "Kata 03 - How Big? How Fast?"
   ]
