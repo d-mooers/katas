@@ -14,5 +14,5 @@ Implementing binary search in different ways!
 This kata is more of a mental exercise and is on approximating the size and speed in different scenarios.
 
 - [Problem statement](http://codekata.com/kata/kata03-how-big-how-fast/)
-- [Text solution](<./text/Kata%2003%20-%20How%20Big?%20How%20Fast?/Kata%2003%20-%20Solution%20(Mine).md>)
-- [Reflection](./text/Kata%2003%20-%20How%20Big?%20How%20Fast?/Kata%2003%20-%20Solution%20Review.md)
+- [Text solution](./text/Kata_03/Solution.md)
+- [Reflection](./text/Kata_03/Reflection.md)
