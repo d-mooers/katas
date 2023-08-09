@@ -16,3 +16,7 @@ This kata is more of a mental exercise and is on approximating the size and spee
 - [Problem statement](http://codekata.com/kata/kata03-how-big-how-fast/)
 - [Text solution](./text/Kata_03/Solution.md)
 - [Reflection](./text/Kata_03/Reflection.md)
+
+## Kata 04 - Data Munging
+
+- [Problem statement](http://codekata.com/kata/kata04-data-munging/)
